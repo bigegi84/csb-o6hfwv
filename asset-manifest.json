@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://bigegi84.github.io/csb-o6hfwv/static/css/main.9a509aaa.chunk.css",
+    "main.js": "https://bigegi84.github.io/csb-o6hfwv/static/js/main.222ad883.chunk.js",
+    "main.js.map": "https://bigegi84.github.io/csb-o6hfwv/static/js/main.222ad883.chunk.js.map",
+    "runtime-main.js": "https://bigegi84.github.io/csb-o6hfwv/static/js/runtime-main.448a2b0d.js",
+    "runtime-main.js.map": "https://bigegi84.github.io/csb-o6hfwv/static/js/runtime-main.448a2b0d.js.map",
+    "static/js/2.8414072c.chunk.js": "https://bigegi84.github.io/csb-o6hfwv/static/js/2.8414072c.chunk.js",
+    "static/js/2.8414072c.chunk.js.map": "https://bigegi84.github.io/csb-o6hfwv/static/js/2.8414072c.chunk.js.map",
+    "index.html": "https://bigegi84.github.io/csb-o6hfwv/index.html",
+    "static/css/main.9a509aaa.chunk.css.map": "https://bigegi84.github.io/csb-o6hfwv/static/css/main.9a509aaa.chunk.css.map",
+    "static/js/2.8414072c.chunk.js.LICENSE.txt": "https://bigegi84.github.io/csb-o6hfwv/static/js/2.8414072c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.448a2b0d.js",
+    "static/js/2.8414072c.chunk.js",
+    "static/css/main.9a509aaa.chunk.css",
+    "static/js/main.222ad883.chunk.js"
+  ]
+}
